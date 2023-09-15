@@ -21,6 +21,30 @@ public:
         return -1;
     }
 };
+// best approach
+class Solution
+{
+public:
+    int findDuplicate(vector<int> &nums)
+    {
+        // using flloyds algo
+        int slow = nums[0];
+        int fast = nums[0];
+        do
+        {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+        fast = nums[0];
+        while (slow != fast)
+        {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+
+        return slow;
+    }
+};
 
 int main()
 {
