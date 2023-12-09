@@ -33,7 +33,7 @@ public:
         int n = nums.size();
         for(int i =0; i<n; i++){
             int second = target - nums[i];
-            if(mpp.find(second)!= mpp.end()){
+            if(mpp.find(second)!= mpp.end()){   
                 return {mpp[second], i};
             }
             mpp[nums[i]]= i;
