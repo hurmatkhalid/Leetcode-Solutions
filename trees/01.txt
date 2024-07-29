@@ -1,0 +1,14 @@
+https://leetcode.com/discuss/general-discussion/937307/iterative-recursive-dfs-bfs-tree-traversal-in-pre-post-levelorder-views
+
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true#sequence-3
+
+https://leetcode.com/discuss/study-guide/1212004/binary-trees-study-guide
+
+https://leetcode.com/problem-list/9e6fzz02/
+
+https://www.reddit.com/r/Btechtards/comments/1bniob6/complete_competitive_programming_dsa_guide_that_i/
+
+https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
+
+https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+
